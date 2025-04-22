@@ -16,3 +16,4 @@ your_project_root/
     ├── image_201.jpg
     ├── image_202.jpg
     └── _annotations.coco.json
+![image](https://github.com/user-attachments/assets/821f374e-2df3-4087-9ea4-01d2868bb9a6)
